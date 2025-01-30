@@ -30,7 +30,7 @@
 当前自述文件 `README.md` 支持以下语言:
 
  - 简体中文 [zh-Hans] # 当前
- - [English [en]](http://project.autojs6.com/blob/master/.readme/README-en.md)
+ - [English [en]](https://github.com/tnyi/AutoJs6/.readme/README-en.md)
 
 
 ******
